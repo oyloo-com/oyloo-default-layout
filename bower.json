@@ -1,18 +1,18 @@
 {
-  "name": "seed-element",
+  "name": "oyloo-default-layout",
   "version": "1.0.7",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Ed Ilyin <ed.il@live.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "An element providing a default layout.",
   "keywords": [
     "web-component",
     "polymer",
-    "seed"
+    "layout"
   ],
-  "main": "seed-element.html",
+  "main": "oyloo-default-layout.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/oyloo-com/oyloo-default-layout/",
   "ignore": [
     "/.*",
     "/test/"
